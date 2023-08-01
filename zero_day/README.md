@@ -1,1 +1,1 @@
-got help me
+This file is mandatory in projects
